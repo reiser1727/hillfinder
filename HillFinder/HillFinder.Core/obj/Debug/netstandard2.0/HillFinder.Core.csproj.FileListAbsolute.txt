@@ -1,0 +1,9 @@
+C:\JSC\hillfinder\HillFinder\HillFinder.Core\bin\Debug\netstandard2.0\HillFinder.Core.deps.json
+C:\JSC\hillfinder\HillFinder\HillFinder.Core\bin\Debug\netstandard2.0\HillFinder.Core.dll
+C:\JSC\hillfinder\HillFinder\HillFinder.Core\bin\Debug\netstandard2.0\HillFinder.Core.pdb
+C:\JSC\hillfinder\HillFinder\HillFinder.Core\obj\Debug\netstandard2.0\HillFinder.Core.csprojAssemblyReference.cache
+C:\JSC\hillfinder\HillFinder\HillFinder.Core\obj\Debug\netstandard2.0\HillFinder.Core.csproj.CoreCompileInputs.cache
+C:\JSC\hillfinder\HillFinder\HillFinder.Core\obj\Debug\netstandard2.0\HillFinder.Core.AssemblyInfoInputs.cache
+C:\JSC\hillfinder\HillFinder\HillFinder.Core\obj\Debug\netstandard2.0\HillFinder.Core.AssemblyInfo.cs
+C:\JSC\hillfinder\HillFinder\HillFinder.Core\obj\Debug\netstandard2.0\HillFinder.Core.dll
+C:\JSC\hillfinder\HillFinder\HillFinder.Core\obj\Debug\netstandard2.0\HillFinder.Core.pdb
